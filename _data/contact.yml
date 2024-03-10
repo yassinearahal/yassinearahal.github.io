@@ -3,8 +3,28 @@
 - type: github
   icon: "fab fa-github"
 
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/yassinearahal/'                  # Fill with your Linkedin homepage
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/Sirius1337"
+
+- type: TryHackMe
+  icon: "fas fa-cloud"
+  url:  'https://tryhackme.com/p/yassinearahal'
+
+- type: HackTheBox
+  icon: "fas fa-cube"
+  url:  'https://app.hackthebox.com/profile/1712460' 
+
+- type: buymeacoffee
+  icon: 'fa fa-mug-hot'
+  url:  'https://www.buymeacoffee.com/yassinearahal'
 
 - type: email
   icon: "fas fa-envelope"
@@ -14,13 +34,8 @@
   icon: "fas fa-rss"
   noblank: true
 
-- type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/yassinearahal/'                  # Fill with your Linkedin homepage
 
-- type: buymeacoffee
-  icon: 'fa fa-mug-hot'
-  url:  'https://www.buymeacoffee.com/yassinearahal'
+
   
 # Uncomment and complete the url below to enable more contact options
 #

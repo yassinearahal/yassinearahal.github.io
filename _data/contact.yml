@@ -10,10 +10,6 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: Telegram
-  icon: "fab fa-telegram"
-  url: "https://t.me/yassinearahal"
-
 - type: TryHackMe
   icon: "fas fa-cloud"
   url:  'https://tryhackme.com/p/yassinearahal'

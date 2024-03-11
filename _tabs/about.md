@@ -7,13 +7,14 @@ order: 4
 <h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
 <h3 align="center">A cybersecurity researcher, ethical hacker, CTF player & blogger</h3>
 
-Embarking on a journey fueled by passion, I delve into the world of cybersecurity as a self-driven hacker and committed CTF player. My pursuit revolves around continuous learning and practical application, dedicating ample time to mastering new skills and putting them to the test across various platforms like TryHackMe and HackTheBox.
+<p align="center">Embarking on a journey fueled by passion, I delve into the world of cybersecurity as a self-driven hacker and committed CTF player. My pursuit revolves around continuous learning and practical application, dedicating ample time to mastering new skills and putting them to the test across various platforms like TryHackMe and HackTheBox.</p>
 
-This platform serves as a hub for my exploits, featuring comprehensive guides and insights into the machines and CTFs I conquer. At its core, my motivation stems from:
+<p align="center">This platform serves as a hub for my exploits, featuring comprehensive guides and insights into the machines and CTFs I conquer. At its core, my motivation stems from:</p>
 
+<p align="center">
 - **Knowledge Dissemination:** I'm driven by the desire to share valuable insights and expertise to aid fellow travelers in the cybersecurity landscape.
-  
 - **Documentation:** Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
+</p>
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
@@ -22,6 +23,7 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
     <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
         <script src="https://www.hackthebox.eu/badge/1712460"></script>
     </div>
+</div>
 
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
@@ -38,11 +40,10 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/63385?s=48&v=4" alt="nmap" width="50" height="50" /></a>
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/15949799?s=48&v=4" alt="hashcat" width="50" height="50" /></a>
 <!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
-
 </p>
 
 <h1 align="center">Certifications and Achievements:</h1>
-If you want to explore more about my academic background, achievements, or experiences, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/yassinearahal/) and [GitHub profile](https://github.com/yassinearahal).
+<p align="center">If you want to explore more about my academic background, achievements, or experiences, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/yassinearahal/) and [GitHub profile](https://github.com/yassinearahal).</p>
 
 <h2 align="center">🌐 Connect with me:</h2>
 
@@ -51,4 +52,3 @@ If you want to explore more about my academic background, achievements, or exper
 <a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
-

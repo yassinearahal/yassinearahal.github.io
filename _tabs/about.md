@@ -42,7 +42,7 @@ order: 4
 <!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
 </p>
 
-<h1 align="center">[Certifications and Achievements:](https://www.linkedin.com/in/yassinearahal/)</h1>
+<h1 align="center">Certifications and Achievements:</h1>
 <p align="center">If you want to explore more about my academic background, achievements, or experiences, feel free to check out my <a href="https://www.linkedin.com/in/yassinearahal/">LinkedIn profile</a> and <a href="https://github.com/yassinearahal">GitHub profile</a>.</p>
 
 <h2 align="center">🌐 Connect with me:</h2>

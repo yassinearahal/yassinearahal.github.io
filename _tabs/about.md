@@ -43,7 +43,7 @@ order: 4
 </p>
 
 <h1 align="center">[Certifications and Achievements:](https://www.linkedin.com/in/yassinearahal/)</h1>
-<p align="center">If you want to explore more about my academic background, achievements, or experiences, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/yassinearahal/) and [GitHub profile](https://github.com/yassinearahal).</p>
+<p align="center">If you want to explore more about my academic background, achievements, or experiences, feel free to check out my <a href="https://www.linkedin.com/in/yassinearahal/">LinkedIn profile</a> and <a href="https://github.com/yassinearahal">GitHub profile</a>.</p>
 
 <h2 align="center">🌐 Connect with me:</h2>
 

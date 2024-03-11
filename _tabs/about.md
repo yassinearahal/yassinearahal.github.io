@@ -18,7 +18,7 @@ order: 4
 
 <div align="center">
      <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
-     <img src="https://www.hackthebox.eu/badge/image/1712460" height="57" style="margin: 0 10px;">  
+     <img src="https://www.hackthebox.eu/badge/image/1712460" height="60" style="margin: 0 10px;">  
 </div>
 
 <h1 align="center">Languages and Tools:</h1>

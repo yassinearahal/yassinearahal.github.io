@@ -41,6 +41,9 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
 
 </p>
 
+<h1 align="center">Certifications and Achievements:</h1>
+If you want to explore more about my academic background, achievements, or experiences, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/yassinearahal/) and [GitHub profile](https://github.com/yassinearahal).
+
 <h2 align="center">🌐 Connect with me:</h2>
 
 <p align="center">

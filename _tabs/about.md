@@ -23,7 +23,6 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
         <script src="https://www.hackthebox.eu/badge/1712460"></script>
     </div>
 
-    </div>
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>

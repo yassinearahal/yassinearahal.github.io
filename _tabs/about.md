@@ -5,7 +5,7 @@ order: 4
 ---
 
 <h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
-<h3 align="center">A cybersecurity enthusiast, ethical hacker, CTF player & blogger</h3>
+<h3 align="center">A cybersecurity researcher, ethical hacker, CTF player & blogger</h3>
 
 Embarking on a journey fueled by passion, I delve into the world of cybersecurity as a self-driven hacker and committed CTF player. My pursuit revolves around continuous learning and practical application, dedicating ample time to mastering new skills and putting them to the test across various platforms like TryHackMe and HackTheBox.
 
@@ -41,3 +41,12 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
 <!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
 
 </p>
+
+<h2 align="center">🌐 Connect with me:</h2>
+
+<p align="center">
+<a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>
+

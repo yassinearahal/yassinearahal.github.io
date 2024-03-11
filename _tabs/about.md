@@ -16,13 +16,9 @@ order: 4
 - **Documentation:** Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
 </p>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-        <script src="https://tryhackme.com/badge/1154151"></script>
-    </div>
-    <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-        <script src="https://www.hackthebox.eu/badge/1712460"></script>
-    </div>
+<div align="center">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
+     <img src="https://www.hackthebox.eu/badge/image/1712460" height="57" style="margin: 0 10px;">  
 </div>
 
 <h1 align="center">Languages and Tools:</h1>

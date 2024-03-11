@@ -15,10 +15,10 @@ This platform serves as a hub for my exploits, featuring comprehensive guides an
   
 - **Documentation:** Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
 
- <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-         <script src="https://tryhackme.com/badge/1154151"></script>
-    </div>
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-        <script src="https://www.hackthebox.eu/badge/1712460"></script>
+        <script src="https://tryhackme.com/badge/367641"></script>
+    </div>
+    <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
+        <script src="https://www.hackthebox.eu/badge/565048"></script>
     </div>

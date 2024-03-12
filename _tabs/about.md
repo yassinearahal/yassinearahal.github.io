@@ -51,4 +51,6 @@ order: 4
 
 <p align="center">
 <a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
+<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>

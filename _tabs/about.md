@@ -12,8 +12,10 @@ order: 4
 <p align="center">This platform serves as a hub for my exploits, featuring comprehensive guides and insights into the machines and CTFs I conquer. At its core, my motivation stems from:</p>
 
 <p align="center">
-- **Knowledge Dissemination:** I'm driven by the desire to share valuable insights and expertise to aid fellow travelers in the cybersecurity landscape.
-- **Documentation:** Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
+  <strong>Knowledge Dissemination:</strong><br>
+  I'm driven by the desire to share valuable insights and expertise to aid fellow travelers in the cybersecurity landscape.<br>
+  <strong>Documentation:</strong><br>
+  Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
 </p>
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
@@ -49,6 +51,4 @@ order: 4
 
 <p align="center">
 <a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-</p>
+<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white

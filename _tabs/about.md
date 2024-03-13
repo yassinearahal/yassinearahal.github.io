@@ -5,7 +5,7 @@ order: 4
 ---
 
 <h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
-<h3 align="center">A cybersecurity researcher, ethical hacker, CTF player & blogger</h3>
+<h3 align="center">A cybersecurity researcher, CTF player & blogger</h3>
 
 <p align="center">Embarking on a journey fueled by passion, I delve into the world of cybersecurity as a self-driven hacker and committed CTF player. My pursuit revolves around continuous learning and practical application, dedicating ample time to mastering new skills and putting them to the test across various platforms like TryHackMe and HackTheBox.</p>
 

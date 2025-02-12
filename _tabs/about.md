@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+https://github.com/user-attachments/assets/39e5cb27-581d-4ec4-9306-72b34a657d5a
+
 <h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
 <h3 align="center">A cybersecurity researcher, CTF player & blogger</h3>
 

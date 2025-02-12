@@ -22,8 +22,8 @@ My pursuit revolves around continuous learning and practical application, dedica
 </p>
 
 <div style="display: flex; justify-content: center; gap: 30px; align-items: center; margin-top: 20px;">
-    <script src="https://tryhackme.com/badge/1154151"></script>
-    <script src="https://www.hackthebox.eu/badge/1712460"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/1154151.png" alt="TryHackMe Badge" width="150"/>
+    <img src="https://www.hackthebox.com/badge/image/1712460" alt="HackTheBox Badge" width="150"/>
 </div>
 
 <h2 align="center" style="color: #4CAF50;">🛠️ Languages and Tools</h2>

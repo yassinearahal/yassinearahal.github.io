@@ -1,27 +1,27 @@
-<h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
-<h3 align="center">A cybersecurity researcher, CTF player & blogger</h3>
-
-<p align="center">Embarking on a journey fueled by passion, I delve into the world of cybersecurity as a self-driven hacker and committed CTF player. My pursuit revolves around continuous learning and practical application, dedicating ample time to mastering new skills and putting them to the test across various platforms like TryHackMe and HackTheBox.</p>
-
-<p align="center">This platform serves as a hub for my exploits, featuring comprehensive guides and insights into the machines and CTFs I conquer. At its core, my motivation stems from:</p>
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <strong>Knowledge Dissemination:</strong><br>
-  I'm driven by the desire to share valuable insights and expertise to aid fellow travelers in the cybersecurity landscape.<br>
-  <strong>Documentation:</strong><br>
-  Recognizing the power of documenting my journey, I not only create a personal record but also contribute to the collective wisdom of the cybersecurity community.
+🔭 I’m currently working on honing my skills in cybersecurity.<br>
+👯 I’m looking to collaborate on open source projects.<br>
+💬 Ask me about IT & Cybersecurity.<br>
+⚡ Fun fact i am not introvert neither extrovert > whoami ?
 </p>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-        <script src="https://tryhackme.com/badge/1154151"></script>
-    </div>
-    <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
-        <script src="https://www.hackthebox.eu/badge/1712460"></script>
-    </div>
+<div align="center">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/yassinearahal.png" alt="TryHackMe">
+     <img src="https://www.hackthebox.eu/badge/image/1712460" height="57" style="margin: 0 10px;">  
 </div>
 
-<h1 align="center">Languages and Tools:</h1>
+<h2 align="center">🌐 Socials:</h2>
+
+<p align="center">
+<a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
+<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+<h1 align="center">💻 Languages and Tools::</h1>
+
 <p align="center">
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="bash" width="50" height="50" /></a>
@@ -38,14 +38,27 @@
 <!--<a href="" target="_blank" rel="noreferrer"><img align="center" src="" alt="" width="50" height="50" /></a>-->
 </p>
 
-<h1 align="center">Certifications and Achievements:</h1>
-<p align="center">If you want to explore more about my academic background, achievements, or experiences, feel free to check out my <a href="https://www.linkedin.com/in/yassinearahal/">LinkedIn profile</a> and <a href="https://github.com/yassinearahal">GitHub profile</a>.</p>
-
-<h2 align="center">🌐 Connect with me:</h2>
+<h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
-<a href="https://x.com/yassinearahal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-<a href="https://linkedin.com/in/yassinearahal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/yassinearahal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinearahal&theme=dark&hide_border=false"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinearahal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=yassinearahal&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
+<h3 align="center">😂 Random Dev Meme</h3>
+
+<p align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;">
+</p>
+
+<h2 align="center">💰 You can help me by Donating</h2>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/yassinearahal"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+</p>

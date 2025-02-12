@@ -1,9 +1,3 @@
- ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 <h1 align="center">Hello there! I'm Yassine ARAHAL</h1>
 <h3 align="center">A cybersecurity researcher, CTF player & blogger</h3>
 
